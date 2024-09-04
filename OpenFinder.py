@@ -10,7 +10,7 @@ def scan_vulnerabilidades():
 
     # Escolher o tipo de varredura
     print("Please choose for scan:")
-    print("1. with altex")
+    print("1. with alterx")
     print("2. no alterx")
     print("3. with katana")
     escolhas = input()
